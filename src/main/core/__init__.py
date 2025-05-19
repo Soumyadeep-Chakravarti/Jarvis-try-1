@@ -1,5 +1,0 @@
-'''
-
-Init for main
-
-'''
