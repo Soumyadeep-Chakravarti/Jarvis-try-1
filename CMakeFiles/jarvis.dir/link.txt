@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/jarvis.dir/src/main.c.o -o jarvis  -Wl,-rpath,/home/sammy/Desktop/Code/Projects/Jarvis/Jarvis-try-0/bin libjarvis_core.a libjarvis_io.a libjarvis_llm.a bin/libllama.so bin/libggml.so bin/libggml-cpu.so bin/libggml-base.so -lpthread -lm 

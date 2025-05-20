@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjarvis_llm.a CMakeFiles/jarvis_llm.dir/src/llm/llama_wrapper.cpp.o
+/usr/bin/ranlib libjarvis_llm.a

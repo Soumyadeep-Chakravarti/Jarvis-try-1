@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjarvis_core.a CMakeFiles/jarvis_core.dir/src/core/core.c.o
+/usr/bin/ranlib libjarvis_core.a

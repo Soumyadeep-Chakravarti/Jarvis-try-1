@@ -1,3 +1,6 @@
 [submodule "external/llama.cpp"]
 	path = external/llama.cpp
 	url = https://github.com/Soumyadeep-Chakravarti/llama.cpp.git
+[submodule "external/CLI-Library-C"]
+	path = external/CLI-Library-C
+	url = https://github.com/Soumyadeep-Chakravarti/CLI-Library-C.git
