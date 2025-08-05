@@ -1,3 +1,6 @@
 [submodule "CLI-Library"]
 	path = lib/CLI-Library
 	url = "https://github.com/Soumyadeep-Chakravarti/CLI-Library-C.git"
+[submodule "lib/CLI-Library-C"]
+	path = lib/CLI-Library-C
+	url = git@github.com:Soumyadeep-Chakravarti/CLI-Library-C.git
