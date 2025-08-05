@@ -1,2 +1,0 @@
-/usr/bin/ar qc libjarvis_io.a CMakeFiles/jarvis_io.dir/src/io/io.c.o
-/usr/bin/ranlib libjarvis_io.a
